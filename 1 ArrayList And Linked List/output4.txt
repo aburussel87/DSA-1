@@ -1,0 +1,19 @@
+<  |1  2  3  4  >
+
+Moved current postion to end
+<  1  2  3  |4  >
+Current position is 3
+<  1  2  3  |4  >
+Invalid position!!
+<  1  2  3  |4  >
+Current position is 3
+<  1  2  3  |4  >
+Moved current position to 0
+<  |1  2  3  4  >
+Current position is 0
+<  |1  2  3  4  >
+Invalid position!!
+<  |1  2  3  4  >
+Current position is 0
+<  |1  2  3  4  >
+Program terminated

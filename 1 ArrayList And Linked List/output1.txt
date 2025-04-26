@@ -1,0 +1,17 @@
+<  |1  2  3  4  >
+
+Cleared list
+<  >
+Inserted 1
+<  |1  >
+Inserted 2
+<  |2  1  >
+Inserted 3
+<  |3  2  1  >
+Inserted 4
+<  |4  3  2  1  >
+Array size is 4
+<  |4  3  2  1  >
+Current position is 0
+<  |4  3  2  1  >
+Program terminated

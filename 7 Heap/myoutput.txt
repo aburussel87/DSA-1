@@ -1,0 +1,32 @@
+Heap: Nothing to print
+Inserted 40 into the heap.
+Heap: 40 
+Inserted 30 into the heap.
+Heap: 40 30 
+Inserted 20 into the heap.
+Heap: 40 30 20 
+Inserted 50 into the heap.
+Heap: 50 40 20 30 
+Inserted 60 into the heap.
+Heap: 60 50 20 30 40 
+Inserted 70 into the heap.
+Heap: 70 50 60 30 40 20 
+Inserted 10 into the heap.
+Heap: 70 50 60 30 40 20 10 
+Inserted 5 into the heap.
+Heap: 70 50 60 30 40 20 10 5 
+Max Heap property is preserved.
+Increased key at index 7 to 80
+Heap: 80 70 60 50 40 20 10 30 
+Deleted element at index 0
+Heap: 70 50 60 30 40 20 10 
+Deleted element at index 0
+Heap: 60 50 20 30 40 10 
+Deleted element at index 0
+Heap: 50 40 20 30 10 
+Deleted element at index 4
+Heap: 50 40 20 30 
+Deleted element at index 1
+Heap: 50 30 20 
+Increased key at index 2 to 100
+Heap: 100 30 50 

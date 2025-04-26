@@ -1,0 +1,8 @@
+<  >
+
+Inserted 10
+<  |10  >
+Resized array from 1 to 2
+Inserted 20
+<  |20  10  >
+Program terminated

@@ -1,0 +1,14 @@
+Adjacency Matrix: 
+0 1 1 0 0 1 0 0 
+1 0 0 1 1 0 0 0 
+1 0 0 1 0 0 0 0 
+0 1 1 0 1 0 0 0 
+0 1 0 1 0 1 0 0 
+1 0 0 0 1 0 1 1 
+0 0 0 0 0 1 0 1 
+0 0 0 0 0 1 1 0 
+Connected components:
+1 2 3 6 4 5 7 8 
+No tunnels needed
+Shortest path: 
+1 2 3 6 8

@@ -1,0 +1,30 @@
+27
+aaa a*  
+abb a.*  
+aabbcc a*c*b*  
+bbcc a+bbcc  
+bbcc a*bbc. 
+ a*b*c* 
+aac a*aac  
+atels a.+f*  
+abc abc  
+abc a.c  
+abc ab*d  
+aaaa a*aa  
+ab a+b  
+aaab a+b  
+abbbbb a+b* 
+ 
+abc def  
+aaabc a*b*c*  
+a ab*c  
+abcde abc  
+abbbbcc a.*c+ 
+bbcc a*bbc 
+aaa a*
+abb a.*
+aabbcc a*b*c*
+bbcc a+bbcc
+bbcc a*bbc.
+
+

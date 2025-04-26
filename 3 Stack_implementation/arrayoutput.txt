@@ -1,0 +1,31 @@
+-------------Testing Array-based Stack-------------
+Pushed 10 onto the stack.
+Current stack: 10 
+-------------------
+Pushed 20 onto the stack.
+Current stack: 10 20 
+-------------------
+Pushed 30 onto the stack.
+Current stack: 10 20 30 
+-------------------
+Pushed 40 onto the stack.
+Current stack: 10 20 30 40 
+-------------------
+Popped value: 40
+Current stack: 10 20 30 
+-------------------
+Popped value: 30
+Current stack: 10 20 
+-------------------
+Top value: 20
+Current stack: 10 20 
+-------------------
+Current stack length: 2
+Current stack: 10 20 
+-------------------
+Is stack empty? No
+Current stack: 10 20 
+-------------------
+Cleared the stack.
+Current stack: 
+-------------------
